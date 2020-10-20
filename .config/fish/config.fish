@@ -48,6 +48,3 @@ set -g fish_color_valid_path --underline
 # Install Starship
 starship init fish | source
 
-# NeuroRx
-set -gx NRX_ENGINE_BUILD_PATH /home/vincent/NeuroRX/nrx_engine
-set -a PATH /opt/minc/1.9.17/bin
